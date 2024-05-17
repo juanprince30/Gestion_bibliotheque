@@ -1,0 +1,4 @@
+ID: 1	   Titre: My khonf	  Auteur:Hitler	 Date Publication: 1927	 Genre: Politique	 Prix: 20000.000000 FCFA	 Stock: 19 
+ID: 2	    Titre: PRINCE	  Auteur:PRINCE	 Date Publication: 2000	 Genre: COMIQUE	 Prix: 3000.000000 FCFA	 Stock: 12 
+ID: 3	    Titre: Le monde s'effronde	  Auteur:Chinuwa hachebe	 Date Publication: 1993	 Genre: Histoire	 Prix: 8000.000000 FCFA	 Stock: 13 
+ID: 4	    Titre: PSG	  Auteur:KYLIAN MBAPPE	 Date Publication: 2023	 Genre: SPORT	 Prix: 24000.000000 FCFA	 Stock: 24 
